@@ -1,4 +1,9 @@
-// lodash 练习册
+/**
+ * lodash 练习册
+ * [](https://github.com/lodash/lodash)
+ *
+ * https://blog.csdn.net/qq_30638831/article/details/93772900
+ */
 
 import _ from 'lodash'
 
@@ -19,3 +24,7 @@ let chunk3 = _.chunk(arr, 3)
 // false, null, 0, '', undefined, NaN
 let compact = _.compact([0, '0', 1, false, 2, '', 3])
 // [ '0', 1, 2, 3 ]
+
+
+
+
