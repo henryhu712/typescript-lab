@@ -8,6 +8,7 @@ console.log('a: ', a)
 process.exit()
 
 
+console.log('a: ', a)
 
 
 
